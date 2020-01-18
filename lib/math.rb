@@ -20,8 +20,8 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  num1 = 34
-  num2 = 5
+  num1 = 4
+  num2 = 30
   times = (num1*num2)
   return times
 end
