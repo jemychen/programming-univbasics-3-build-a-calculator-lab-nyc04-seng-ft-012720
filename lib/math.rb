@@ -20,10 +20,10 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  num1 = 3
+  num1 = 34
   num2 = 5
-  multiple = num1 * num2
-  return mutiple
+  times = (num1*num2)
+  return times
 end
 
 def modulo(num1, num2)
